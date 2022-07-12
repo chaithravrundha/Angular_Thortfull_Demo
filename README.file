@@ -8,6 +8,8 @@ Installations:
   To create json serve and check please run this cmd and check "json-server --watch db.json"
   where you will be able to see the server .Please make sure this is running and paste this
    link in browser "http://localhost:3000/"
+ 4. Run `ng build` for node modules to update ad build the project
+ 5. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 Project:
 In this project CRUD operation is implemented using API
@@ -18,4 +20,3 @@ Validations used for few fields, Ajax call is used using rxjs concept, Reactive 
 This application is built using Angular material UI.
 Angular material 14 version is used.
 Pagination, Sorting filter is implemented using anglar material ui.
-
