@@ -2,25 +2,38 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
+Angular Project using Material UI
+
+Installations:
+1. Node and Angular should be installed on your system(NPM install -g @angular/cli)
+2.Install Angular Material Package(ng add @angular/material)
+3.Install JSON- SERVER(NPM install -g json-server)
+  To store form value on json serve
+  To create json serve and check please run this cmd and check "json-server --watch db.json"
+  where you will be able to see the server .Please make sure this is running and paste this
+   link in browser "http://localhost:3000/"
+ 4. Run `ng build` for node modules to update ad build the project
+ 5. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+Project:
+In this project CRUD operation is implemented using API
+List of Gadgets can be added into the table by clicking Plus icon on right top corner
+Will also be able to update the data in the table and delete as well.
+Validations used for few fields, Ajax call is used using rxjs concept, Reactive forms,Service,
+ Dependency injection,Directives are used.
+This application is built using Angular material UI.
+Angular material 14 version is used.
+Pagination, Sorting filter is implemented using anglar material ui.
+
 ## Development server
 
+Run `ng build` for node modules to update ad build the project
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
