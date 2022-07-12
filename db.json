@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Electronics",
+      "category": "laptops",
+      "date": "2022-07-12T18:30:00.000Z",
+      "productType": "Second Hand",
+      "amount": 300,
+      "comments": "Test",
+      "id": 1
+    },
+    {
+      "productName": "Elctronics2`",
+      "category": "tabs",
+      "date": "2022-07-11T18:30:00.000Z",
+      "productType": "Second Hand",
+      "amount": 200,
+      "comments": "this is tabs",
+      "id": 2
+    },
+    {
+      "productName": "Test",
+      "category": "tabs",
+      "date": "2022-07-11T18:30:00.000Z",
+      "productType": "New",
+      "amount": 456,
+      "comments": "testing",
+      "id": 3
+    },
+    {
+      "productName": "New Gadget",
+      "category": "mobiles",
+      "date": "2022-07-04T18:30:00.000Z",
+      "productType": "Second Hand",
+      "amount": 333,
+      "comments": "testfhjhh",
+      "id": 4
+    },
+    {
+      "productName": "SDFASDF",
+      "category": "tabs",
+      "date": "2022-06-30T18:30:00.000Z",
+      "productType": "Rough Used",
+      "amount": 444,
+      "comments": "DFASDF",
+      "id": 6
+    },
+    {
+      "productName": "FDGSDFGFGDSFGF",
+      "category": "laptops",
+      "date": "2022-07-05T18:30:00.000Z",
+      "productType": "Rough Used",
+      "amount": "",
+      "comments": "",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
